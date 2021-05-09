@@ -2096,7 +2096,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/AnoSwap/",
             },
             {
                 label: "Docs",
@@ -2116,7 +2116,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/anoswap",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2160,14 +2160,14 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "https://t.me/anoswapgroup",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/anoswap",
     },
 ];
 var MENU_HEIGHT = 64;
